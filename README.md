@@ -184,7 +184,7 @@ Want to follow development, view previews, or stay updated?
 
 Join the official Steezy Discord:
 
-# 👉 https://discord.gg/steezyteam
+# 👉 [https://discord.gg/steezyteam](https://discord.gg/AzUEK4gUva)
 
 Inside the server you can:
 
@@ -234,4 +234,4 @@ Use responsibly and follow applicable platform rules and guidelines.
 
 Stay sharp. Stay curious.
 
-👉 https://discord.gg/steezyteam
+👉 [https://discord.gg/steezyteam](https://discord.gg/AzUEK4gUva)
